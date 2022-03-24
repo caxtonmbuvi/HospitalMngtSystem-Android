@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "159,1002",
+                        "endLines": "6,26",
+                        "endColumns": "12,12",
+                        "endOffsets": "365,1601"
+                    }
+                },
+                {
+                    "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\values-night\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "58",
+                        "endOffsets": "111"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "58",
+                        "endOffsets": "154"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Sakina\\.gradle\\caches\\transforms-3\\589b32396052d18877318a856258023a\\transformed\\material-1.4.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,44,45,46,47,48,49,50",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1606,1694,1818,1920,2022,2138,2240,2354,2482,2598,2720,2856,2976,3110,3230,3342,3557,3681,3811,3933,4071,4205,4321",
+                        "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,123,129,121,137,133,115,119",
+                        "endOffsets": "1689,1813,1915,2017,2133,2235,2349,2477,2593,2715,2851,2971,3105,3225,3337,3463,3676,3806,3928,4066,4200,4316,4436"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Sakina\\.gradle\\caches\\transforms-3\\daec56630d897aa40e0fc6356687505b\\transformed\\appcompat-1.4.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,43",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "370,440,524,608,704,806,908,3468",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "435,519,603,699,801,903,997,3552"
+                    }
+                }
+            ]
+        }
+    ]
+}

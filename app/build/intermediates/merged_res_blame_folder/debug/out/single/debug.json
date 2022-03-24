@@ -1,0 +1,558 @@
+[
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_industry.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_industry.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_header.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_attachment_black.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_attachment_black.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_appointments_retrieved_layout.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\appointments_retrieved_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_logout.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_image.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_image.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_notifications.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\activity_notifications.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_applogo.png.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\applogo.png"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_notes.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_notes.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_automotive.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_automotive.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_myfeed.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_myfeed.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_comment.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_comment.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_saved_icon_orange.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_saved_icon_orange.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_patient.png.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\patient.png"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_patient_registration.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\activity_patient_registration.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_savedd.png.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_savedd.png"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_building.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_building.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_housing.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_housing.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_education.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_education.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_home.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_navigation_view_item_selected.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\navigation_view_item_selected.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_options.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_options.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_fashion.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_fashion.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_sports.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_sports.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_placeholder.png.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\placeholder.png"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_buttons_design.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\buttons_design.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_number.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_number.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_finance.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_finance.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_money.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_money.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_dislike.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_dislike.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_energy.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_energy.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_people.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_people.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_check.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_check.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_notification_item.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\notification_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_dashboard.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_dashboard.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_settingz.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_settingz.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_dress.png.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\dress.png"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_manufacuring.png.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_manufacuring.png"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_mining.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_mining.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_more.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_more.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_make_appointment.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\activity_make_appointment.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_select_registration.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\activity_select_registration.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_edit.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_thumb_up_liked.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_thumb_up_liked.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_assignment_layout.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\assignment_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_health.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_health.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_profile.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_engineering.png.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_engineering.png"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_assign_layout.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\assign_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_about.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_about.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_forgot_password.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_searching.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_searching.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_like.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_like.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_location.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_about_app.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\activity_about_app.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_save.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_save.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_send.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_consultancy.png.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_consultancy.png"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_thumb_up.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_thumb_up.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_agriculture.png.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_agriculture.png"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_save_icon.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_save_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_attachment.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_attachment.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_inputs_design.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\inputs_design.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_doctor_registration.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\activity_doctor_registration.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_foods.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_foods.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_transport.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_transport.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_notifications.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_notifications.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_saved.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_saved.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_profile.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_rate.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_rate.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_metalwork.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_metalwork.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_buttons2.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\buttons2.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_borders.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\borders.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_buttons_background.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\buttons_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_profile_image.png.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\profile_image.png"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_e_commerce.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_e_commerce.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_favourite.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_favourite.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_fishing.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_fishing.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_thumb_up_liked_green.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_thumb_up_liked_green.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_houses.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_houses.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_doctor_logo.png.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\doctor_logo.png"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_phone.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_share.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_mail.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_mail.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_personalcare.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_personalcare.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_navigation_selector.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\navigation_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_electronics.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_electronics.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_admin_login.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\activity_admin_login.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\menu_main_menu.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_assign_doctor_to_patient.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\activity_assign_doctor_to_patient.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_settings.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_person.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_email.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_entertainment.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_entertainment.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_login.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_login.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_hardware.png.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_hardware.png"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_all_app_users.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\activity_all_app_users.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_travel.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_travel.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_doctors.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\activity_doctors.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_it.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_it.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_dislike_green.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_dislike_green.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_business.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_business.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_users_display_layout.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\users_display_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_book.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_book.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_dislike_orange.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_dislike_orange.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_water.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_water.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_lock.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_buttons3.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\buttons3.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_doctor.png.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\doctor.png"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\menu_post_menu.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\menu\\post_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_creativearts.png.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_creativearts.png"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_saved_post.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_saved_post.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_settingsz.png.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_settingsz.png"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_tree.png.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_tree.png"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_message.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_message.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_all_users_display_layout.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\all_users_display_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_user_details.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\activity_user_details.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_busines.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\drawable\\ic_busines.xml"
+    },
+    {
+        "merged": "D:\\Android\\HospitalMngtApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_patients.xml.flat",
+        "source": "D:\\Android\\HospitalMngtApp\\app\\src\\main\\res\\layout\\activity_patients.xml"
+    }
+]

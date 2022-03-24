@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">HospitalMngtApp</string>
+    <string name="welcome_text">Welcome User</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string-array name="timeframes">
+        <item>Select Available Time:</item>
+        <item>7am - 9am</item>
+        <item>9am - 11am</item>
+        <item>11am - 1pm</item>
+        <item>2pm - 4pm</item>
+    </string-array>
+
+    <string-array name="departments">
+        <item>Select Your Department:</item>
+        <item>Dentistry</item>
+        <item>Surgery</item>
+        <item>Optics</item>
+        <item>Clinic</item>
+    </string-array>
+
+    <string-array name="specialization">
+        <item>Select Your Specialization:</item>
+        <item>General</item>
+        <item>Periodontist</item>
+        <item>Optician</item>
+    </string-array>
+
+</resources>
